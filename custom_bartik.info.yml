@@ -1,0 +1,5 @@
+name: custom_bartik   
+type: theme  
+description: Custom Bartik is sub theme of drupal 8 core theme i.e. bartik. In this subtheme, we have added a new css & a new region.  
+base theme: bartik  
+core: '8.x'  
